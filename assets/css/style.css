@@ -7903,6 +7903,7 @@ fieldset[disabled] .btn-danger.active {
 }
 .header-top-nav ul li {
   float: left;
+  padding: 3px;
 }
 .header-top-nav ul li a {
   color: #fff;
